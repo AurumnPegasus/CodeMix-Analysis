@@ -31,7 +31,7 @@ def fakecleanLines(lines):
     for line in lines:
         if len(line.split()) < 5: continue
         if len(line) > 0:
-            clean_lines.append(line+"\n\n")
+            clean_lines.append(line+"\nAnalysis: \n\n")
     return clean_lines
 
 x = fakecleanLines(x)
