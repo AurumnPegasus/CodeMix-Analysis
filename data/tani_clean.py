@@ -14,13 +14,19 @@ details = {
     'QUOTE': 0,
     'IMP': 0,
     'RC': 0,
-    'GREET': 0
+    'GREET': 0,
+    'HKIN': 0,
+    'EKIN': 0,
+    'RESP': 0
 }
 
 # GREET: english start as greeting, rest AH
 # RC: jiska/jitne/that clause marking hindi RC in english sentence
 # QUOTE: hindi quote in english sentence
 # NP: not word swap exactly, but noun-phrase swap
+# RESP: sir/maam (only the ones seen)
+# EKIN: (bro/mom/dad)/darling
+# HKIN: yaar/bhai/bhaiya/mummy/papa/babu/bhaijaan/bhaiyya/dada
 
 for sent in data:
     if "Analysis: " not in sent or len(sent) == len("Analysis: \n"):
