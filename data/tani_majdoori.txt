@@ -2,10 +2,10 @@
 Analysis: AH
 
 @friendlii_ghost okay sir. hamare bhi din aayenge
-Analysis: CS
+Analysis: CS RESP
 
 Kal bhi paani nahi aaya tha waise! #Budget2016https://twitter.com/ArvindKejriwal/status/704247260461150208Â â€¦
-Analysis: AH
+Analysis: AH 
 
 @SharyAhmad19 . Fazool batein kr rahi hai Ã°Å¸ËœÂ¡
 Analysis: AH
@@ -16,13 +16,13 @@ Analysis: AH
 Analysis: CS
 
 @Shockraborty Mummy aap hamesha mujhe hi daant lagati ho :( beta tum ghar ke bade ho na
-Analysis: AH
+Analysis: AH HKIN
 
 @dan1shmemon bhai theek se padh kya likha hai plz
-Analysis: WS plz vs kripya, also would change the position from plz at the end to kripya OR could use kripya kar at the end
+Analysis: WS plz vs kripya, also would change the position from plz at the end to kripya OR could use kripya kar at the end HKIN
 
 #saynotocorruption #timetochange say no to dummies jinke pass khud ka dimaag nahi dusro k kahne par chalte hai #MakeInIndia
-Analysis: IMP 'say no to dummies' is complete sentence. say no to dummies jinke pass ... then AH + RC
+Analysis: IMP 'say no to dummies' is complete sentence. say no to dummies jinke pass ... then AH + RC 
 
 true !! joke haiÃ°Å¸Ëœâ€šÃ°Å¸Ëœâ€šÃ°Å¸Ëœâ€š accha maazak hai @rajabetasharad https://t.co/F6RCbgnkBm
 Analysis: CS
@@ -31,10 +31,10 @@ Analysis: CS
 Analysis: AH
 
 bhai angreji batao na kuch.. kuch samaj ni aa raha
-Analysis: AH
+Analysis: AH HKIN
 
 "Na bhai na, aise thodi hota hai, ye aate time bhi window seat pe baitha tha" #AUSvPAKpic.twitter.com/PpTsXLrl1b
-Analysis: WS - "window seat"
+Analysis: WS - "window seat" HKIN
 
 When Sagarika was born doctor said "Mubarak ho aur Shubhkamnayen bhi"
 Analysis: hindi in quotes, rest is english QUOTE
@@ -59,7 +59,7 @@ sona nahi hai tumko?
 Analysis: CS QnA Q: hindi A: english
 
 @kamaalrkhan sir ye tweet unko bhej do. Itni Hi-Fi English padh ke wo waise hi suicide kar lega.
-Analysis: "Hi-Fi English" NP english embedded in hindi + "suicide" WS 
+Analysis: "Hi-Fi English" NP english embedded in hindi + "suicide" WS RESP
 
 Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?
 Analysis: "Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?"
@@ -67,16 +67,16 @@ Analysis: "Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?"
 "Bhaiya Goal ki taraf le lo"
  
  Autoguy: "Us taraf nahi jayega"pic.twitter.com/S8MqgLf25i
-Analysis: AH
+Analysis: AH HKIN
 
 .@ashutosh83B to phir rishta pakka samjhen?
 Analysis: AH
 
 RT @ruchikokcha : @Atheist_Krishna Isiliye ( sadly ) I am perhaps the only woman jisey Kohli ko khelta dekh bhai wali feeling aati hai .
-Analysis: IMP "I am perhaps the only woman jisey ... AH" note the jisey RC
+Analysis: IMP "I am perhaps the only woman jisey ... AH" note the jisey RC HKIN
 
 tu such mein pagal ho gai hai......jo ho gya so ho gya babu....ek achhi and happy life start kar....
-Analysis: IMP "ek achhi and happy life start kar ...." note the and, which is combining acchi and happy as adjectives for life. This is again embedded in hindi, saying kar at the end, where rest of preceding sequence is AH 
+Analysis: IMP "ek achhi and happy life start kar ...." note the and, which is combining acchi and happy as adjectives for life. This is again embedded in hindi, saying kar at the end, where rest of preceding sequence is AH HKIN
 
 Gangaa ka dheeraj tu Himalay ka seena hai .. Sone chaandi se bhi keemti .. tera ye paseena hai ! Come back Maahiyaa #Dhoni
 Analysis: CS
@@ -88,7 +88,7 @@ jab tak dhoni hai atleast main to chipka rahunga ..:)
 Analysis: atleast is exta?? "jab tak dhoni hai atleast main to chipka rahunga ..:)"
 
 ye @AapGhumaKeLeLo aur @AndColorPockeT alag level hai bhai, wahan nahi pahonch sakta koi! @Alllahdin
-Analysis: WS: "level" + AH
+Analysis: WS: "level" + AH HKIN
 
 Tumhare chashme ka number hai kya?
 Analysis: WS: number, WRS: chasme + AH
@@ -129,19 +129,19 @@ Analysis: AH
 Analysis: AH
 
 main scooter ke aage khadi hoti thi ... to papa samne dekh nhi pate the .. hehehe
-Analysis: AH
+Analysis: AH HKIN
 
 hey bhagwan ...yeh movies bachcho ka satyanash kar rahi hain ..:-o :o
 Analysis: WS: movies + AH
 
 @Lambar_Daar haha bhai subah se idhar udhar ho raha hu @MAKKARROMA
-Analysis: AH
+Analysis: AH HKIN
 
 RT @coolfunnytshirt : Maine daant tod dena hai Arnab ke agar aur kisi ka resignation maanga toh !!! http://t.co/OuPkhWLllf
 Analysis: WS: resignation + AH
 
 @friendlii_ghost kuch nahi bhai, sab emo chep rahe hai
-Analysis: WS: emo + AH
+Analysis: WS: emo + AH HKIN
 
 @akshaykanitkar HAHAHA. yaar kya karu. Hasne wali baat bhi hai
 Analysis: AH
@@ -153,10 +153,10 @@ Analysis: WS: plz + WS: phone + AH
 Analysis: AH
 
 maam is wrong in rejecting guddu ... acting me to chhora ghana tez hai
-Analysis: "maam is wrong in rejecting guddu ... acting me to chhora ghana tez hai" -> CS + WS: rejecting + WS: wrong + WS: acting 
+Analysis: "maam is wrong in rejecting guddu ... acting me to chhora ghana tez hai" -> CS + WS: rejecting + WS: wrong + WS: acting RESP
 
 @badrirag @ArvindKejriwal Tere ko kyun jal rahi hai agar koi apne PM ki degree demand kar raha hai ?
-Analysis: WS: degree + AH
+Analysis: WS: degree + AH 
 
 @razonater @QararaRasha Sindh is not a property of Pakistan . The philosophy is that aap apna Sindh kahin bhi abaad kar sakte hen .
 Analysis: CS + "The philosophy is that aap apna Sindh kahin ..." + QUOTE
@@ -175,16 +175,16 @@ it is one of the best gigs of grbg bin i hv evr encontrd .... smply owsm .....
 Analysis: AE
 
 great ak sir .. aap zindabad ..we have to first ensure on evm machines because these people are filthy
-Analysis: CS "aap zindabad" in bw AE
+Analysis: CS "aap zindabad" in bw AE RESP
 
 it's wednesday !!you know what that means ....new episodes of the challenge: battle of the seasons &amp
 Analysis: AE
 
 @huh_watnow darling tumhara kuch ni ho sakta 
-Analysis: WS: darling + AH
+Analysis: WS: darling + AH EKIN
 
 bhai aap bhul gye kya hume social science kisne padhai h , unhone dekha to pitaayi ho jayegi .:(
-Analysis: WS: social science + AH
+Analysis: WS: social science + AH HKIN
 
 @shubhansh1504 jab koi bahana nahi hota to bolte hai 'server down hai'
 Analysis: sentence AH quote also AH but WS: server
@@ -193,7 +193,7 @@ Diwali Shopping wahan se karo jahan kisi gareeb ki Diwali achi hojaye #Diwali #d
 Analysis: WS: shopping + AH
 
 Bajrangi bhaijaan mein koi aisa scene jo yadgaar ho????
-Analysis: WS: scene + AH
+Analysis: WS: scene + AH HKIN
 
 @Anoushey_a pak out ho chuka hai aus r kiwi se jeetna namomkin
 Analysis: AH
@@ -214,19 +214,19 @@ Analysis: AH
 Analysis: AH
 
 @himanshujainon @DrGarekar @ashvasant are bhai uski biwi ne mana kia tha . He is innocent otherwise like # kanhaiya , poor student of #JNU
-Analysis: CS
+Analysis: CS HKIN
 
 Shukriya Bhaijaaaaan... Mere bday pe aj tak mila huva Sabse pyara tohfa.... Bajrangi Bhaijaaaaan....
-Analysis: AH
+Analysis: AH HKIN
 
 @Dishasatra LOL @PJ_CRACKER @ROFLaaLa Lala mujhe bhi apni behen bana le please
-Analysis: AH + WS: please
+Analysis: AH + WS: please HKIN
 
 Desh ka yuva jaag chuka hai, yuvika ka kya?
 Analysis: AH + WRS: yuva + WRS: yuvika
 
 0 @BDUTT Mam kaafi frustration me lag rahi hain #TripleTalaq judgement ke baad ! Yahi mauka hain inko koi link bhejo re Blue whale game ki!
-Analysis: WS: frustration + WS: judgement + AH
+Analysis: WS: frustration + WS: judgement + AH HKIN
 
 @i_am_nat_war abla naari ki help kar
 Analysis: WS: help + AH
@@ -250,7 +250,7 @@ Analysis: WS: murder + GERUND
 Analysis: AH
 
 my story ws totally opposite ... maa mana karti thi n papa paise dete thhe ... alwez ... :)
-Analysis: WS: and + WS: always + CS
+Analysis: WS: and + WS: always + CS HKIN HKIN
 
 @rynkee Kaho naa pyaar hai 
 Analysis: AH
@@ -259,22 +259,22 @@ Analysis: AH
 Analysis: AH
 
 Itne to bhai wallet me chillar lekar chalte haihttps://twitter.com/firstpost/status/603429262750691329Â â€¦
-Analysis: WS: wallet 
+Analysis: WS: wallet HKIN
 
 @peachypiscean tumhare aashwasan Kejriwal jaise hote hai, hamesha disappointing </3 :'(
 Analysis: WS: disappointing
 
 RT @khanakram421 : She : Bhaiyya mujhe Chandi colour ka dress chahiyeShopkeeper : Accha to tumhe Silver kameez chahiye ?
-Analysis: IMP woah wtf
+Analysis: IMP woah wtf HKIN
 
 jo jaisa dusro k sath krta h uske sath aisa hi hota h ..he cheated dada ...
-Analysis: CS
+Analysis: CS HKIN
 
 Modi ne #Notebandi toh kar di " par hamaare jaise #foreveralone engineers ke liye bandi kab dhund dega 0 Kya yahi hai acche din?
 Analysis: WS: engineers
 
 Bhai kya bol raha hai https://twitter.com/iNeelSoni/status/654200935128895488Â â€¦
-Analysis: AH
+Analysis: AH HKIN
 
 Subah se na koi favorite mila hai, na mila hai aadha mention.
 Analysis: WS: favorite + WS: mention
@@ -308,10 +308,10 @@ Analysis: WS: Porn
 Analysis: AH
 
 #TripleTalaq sirji aap ne to sab chura liya. triple "talaq ram "mandir "vikas appeasement opposition ko kucchh chhodo
-Analysis: CS
+Analysis: CS RESP
 
 sir, can't wait fr #Bajrangi_bhaijaan <3
-Analysis: AE
+Analysis: AE RESP
 
 @tweeting_pal ab bata bhi de kiska.. raat bhar sochte rahenge @Insane_chorri @HathwalaThakur @MeetUunngLee
 Analysis: AH
@@ -336,7 +336,7 @@ Analysis: AE
 Analysis: AH
 
 Sabke saamne naak toh katwa hi deti hai biwiyahttps://twitter.com/anjanabhartia/status/887558772826152960Â â€¦
-Analysis: AH
+Analysis: AH HKIN
 
 superr se uperrrrr (y) missng home
 Analysis: CS? wtf? AH
@@ -401,22 +401,29 @@ Analysis: AH
 Analysis: AH
 
 "Bhaiya ek Malai chicken kofta lana" #DrunkDialogue
-Analysis: AH
+Analysis: AH HKIN
 
 @Jamuntini Oh ho. Aaj Ghaib.
 Analysis: AH
 
 only kejriwal ... baki sab bakwass
-Analysis: AH + GREET
+Analysis: AH
+
 
 Chota bachcha samajh ke humko na aankh dikhaana re.. - Arya Stark @AndColorPockeT
-Analysis: 
+Analysis: AH
 
 @lack_a_daisy @Being_Humor bhai minus one point tujhe
-Analysis: 
+Analysis: HKIN NP AH
 
 From "azaadi hi meri Dulhan hai" to "Mera toh kaam hi mera valentine hai"
-Analysis: 
+Analysis: QUOTE QUOTE
+
+=============================================================================
+=============================================================================
+=============================================================================
+=============================================================================
+=============================================================================
 
 @MeetUunngLee sab networks aise hi hai bhai
 Analysis: 
