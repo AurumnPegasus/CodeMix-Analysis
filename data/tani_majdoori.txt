@@ -22,7 +22,7 @@ Analysis: AH
 Analysis: WS plz vs kripya, also would change the position from plz at the end to kripya OR could use kripya kar at the end
 
 #saynotocorruption #timetochange say no to dummies jinke pass khud ka dimaag nahi dusro k kahne par chalte hai #MakeInIndia
-Analysis: IMP 'say no to dummies' is complete sentence. say no to dummies jinke pass ... then AH
+Analysis: IMP 'say no to dummies' is complete sentence. say no to dummies jinke pass ... then AH + RC
 
 true !! joke haiÃ°Å¸Ëœâ€šÃ°Å¸Ëœâ€šÃ°Å¸Ëœâ€š accha maazak hai @rajabetasharad https://t.co/F6RCbgnkBm
 Analysis: CS
@@ -37,16 +37,16 @@ Analysis: AH
 Analysis: WS - "window seat"
 
 When Sagarika was born doctor said "Mubarak ho aur Shubhkamnayen bhi"
-Analysis: hindi in quotes, rest is english
+Analysis: hindi in quotes, rest is english QUOTE
 
 " munh khol ke 20 rupay mang liye ..."oh i love this line .
-Analysis: hindi in quotes, rest is english
+Analysis: hindi in quotes, rest is english QUOTE
 
 mujhe bhi peeni hai </3 @sinezero
 Analysis: AH
 
 Sab anti national hai saale.
-Analysis: NP anti-national <-> rashtra virodhi/ desh drohi
+Analysis: NP WS anti-national <-> rashtra virodhi/ desh drohi
 
 Khawaja Mere Khawaja chal wapas chale jaa #IndvsAus
 Analysis: AH
@@ -73,25 +73,25 @@ Analysis: AH
 Analysis: AH
 
 RT @ruchikokcha : @Atheist_Krishna Isiliye ( sadly ) I am perhaps the only woman jisey Kohli ko khelta dekh bhai wali feeling aati hai .
-Analysis: IMP "I am perhaps the only woman jisey ... AH" note the jisey
+Analysis: IMP "I am perhaps the only woman jisey ... AH" note the jisey RC
 
 tu such mein pagal ho gai hai......jo ho gya so ho gya babu....ek achhi and happy life start kar....
-Analysis: "ek achhi and happy life start kar ...." note the and, which is combining acchi and happy as adjectives for life. This is again embedded in hindi, saying kar at the end, where rest of preceding sequence is AH 
+Analysis: IMP "ek achhi and happy life start kar ...." note the and, which is combining acchi and happy as adjectives for life. This is again embedded in hindi, saying kar at the end, where rest of preceding sequence is AH 
 
 Gangaa ka dheeraj tu Himalay ka seena hai .. Sone chaandi se bhi keemti .. tera ye paseena hai ! Come back Maahiyaa #Dhoni
 Analysis: CS
 
 Thank God they didn't end up with "Dekhna na bhooliye Ae Dil Hai Mushkil apni nasdeeki cinema gharon mein. #MadeByGoogle
-Analysis: quotes in hindi rest in english
+Analysis: quotes in hindi rest in english QUOTE
 
 jab tak dhoni hai atleast main to chipka rahunga ..:)
 Analysis: atleast is exta?? "jab tak dhoni hai atleast main to chipka rahunga ..:)"
 
 ye @AapGhumaKeLeLo aur @AndColorPockeT alag level hai bhai, wahan nahi pahonch sakta koi! @Alllahdin
-Analysis: "level" rest AH -- level <-> star not as commonly used
+Analysis: WS: "level" + AH
 
 Tumhare chashme ka number hai kya?
-Analysis: chasma, word level swap
+Analysis: WS: number, WRS: chasme + AH
 
 Isko bhav mat de.. ye nahi dene wali
 Analysis: AH
@@ -100,21 +100,21 @@ Analysis: AH
 Analysis: AH
 
 @kkundra lol ladki mil gyi .. Martina here you go girl .. hahha shit #Roadies
-Analysis: CS? "lol ladki mil gyi ... AE"
+Analysis: IMP CS? "lol ladki mil gyi ... AE"
 
 "Aaj mein bohot khush hu.. pehli baar sau ka note dikhaya bhaijaan ne.. "
  
  #TweetLikeAPakistani
-Analysis: WS
+Analysis: WS: note + AH
 
 TERA PEECHA NA MAIN CHHODINGA SONIYE, BHEJ DE CHAHE JAIL MEIN PYAR KE ISS KHEL MEIN *shakes head like Dev Anand*
-Analysis: emotion/action/gesture encoded in english in *s
+Analysis: IMP emotion/action/gesture encoded in english in *s AH
 
 A small farmer in Mahoba " #UttarPradesh : matar 6 rs kilo bech raha hun #notebandi ke kaaran ! Ab chunaav me batayenge inko 0
-Analysis: A small farmer in Mahoba #UttarPradesh matar 6 rs kilo ... rest AH
+Analysis: A small farmer in Mahoba #UttarPradesh matar 6 rs kilo ... rest CS
 
 Aaj kal Jitne Bhi teaser trailer #Youtube pr Record tod rhe hai Sb #Jio ki meharbaani hai
-Analysis: WS
+Analysis: WS: Record + AH
 
 @Tweepshikha meri achhai ka toh fayda utha rahe ho tum, mazaak udaa kar.
 Analysis: AH
@@ -132,34 +132,34 @@ main scooter ke aage khadi hoti thi ... to papa samne dekh nhi pate the .. heheh
 Analysis: AH
 
 hey bhagwan ...yeh movies bachcho ka satyanash kar rahi hain ..:-o :o
-Analysis: WS
+Analysis: WS: movies + AH
 
 @Lambar_Daar haha bhai subah se idhar udhar ho raha hu @MAKKARROMA
-Analysis: 
+Analysis: AH
 
 RT @coolfunnytshirt : Maine daant tod dena hai Arnab ke agar aur kisi ka resignation maanga toh !!! http://t.co/OuPkhWLllf
-Analysis: WS: resignation ->
+Analysis: WS: resignation + AH
 
 @friendlii_ghost kuch nahi bhai, sab emo chep rahe hai
-Analysis: WS
+Analysis: WS: emo + AH
 
 @akshaykanitkar HAHAHA. yaar kya karu. Hasne wali baat bhi hai
 Analysis: AH
 
 @KyaUkhaadLega Main Arvind Kejriwal HU, plz phone uthaiyega
-Analysis: WS "plz phone"
+Analysis: WS: plz + WS: phone + AH
 
 @samy3010 yeh galat iljham hai
 Analysis: AH
 
 maam is wrong in rejecting guddu ... acting me to chhora ghana tez hai
-Analysis: "maam is wrong in rejecting guddu ... acting me to chhora ghana tez hai" -> AE CS AH+WS
+Analysis: "maam is wrong in rejecting guddu ... acting me to chhora ghana tez hai" -> CS + WS: rejecting + WS: wrong + WS: acting 
 
 @badrirag @ArvindKejriwal Tere ko kyun jal rahi hai agar koi apne PM ki degree demand kar raha hai ?
-Analysis: WS: degree
+Analysis: WS: degree + AH
 
 @razonater @QararaRasha Sindh is not a property of Pakistan . The philosophy is that aap apna Sindh kahin bhi abaad kar sakte hen .
-Analysis: CS + "The philosophy is that aap apna Sindh kahin ..." 
+Analysis: CS + "The philosophy is that aap apna Sindh kahin ..." + QUOTE
 
 Mall me saari ladkiyan achchi lagti hai #GuyFacts
 Analysis: WS: Mall + AH
@@ -181,19 +181,19 @@ it's wednesday !!you know what that means ....new episodes of the challenge: bat
 Analysis: AE
 
 @huh_watnow darling tumhara kuch ni ho sakta 
-Analysis: WS: darling
+Analysis: WS: darling + AH
 
 bhai aap bhul gye kya hume social science kisne padhai h , unhone dekha to pitaayi ho jayegi .:(
-Analysis: WS: social science
+Analysis: WS: social science + AH
 
 @shubhansh1504 jab koi bahana nahi hota to bolte hai 'server down hai'
 Analysis: sentence AH quote also AH but WS: server
 
 Diwali Shopping wahan se karo jahan kisi gareeb ki Diwali achi hojaye #Diwali #deepavali
-Analysis: WS: shopping
+Analysis: WS: shopping + AH
 
 Bajrangi bhaijaan mein koi aisa scene jo yadgaar ho????
-Analysis: WS: scene
+Analysis: WS: scene + AH
 
 @Anoushey_a pak out ho chuka hai aus r kiwi se jeetna namomkin
 Analysis: AH
@@ -202,10 +202,10 @@ haha, nahi dekha yaar. Hai link?
 Analysis: AH
 
 @vikaspgoel @c_aashish RT ki mohmaaya main na padein. Validation ke liye do ache shabd hi kaafi hain.
-Analysis: WS: validation
+Analysis: WS: validation + AH
 
 logo ko ullu banane wale ko solid reply .
-Analysis: WS: "solid reply"
+Analysis: WS: "solid reply" + AH
 
 "Tumhara Pritam Pyaare aagaya ho toh hum sone chale jaaye?"
 Analysis: AH
@@ -223,13 +223,13 @@ Analysis: AH
 Analysis: AH + WS: please
 
 Desh ka yuva jaag chuka hai, yuvika ka kya?
-Analysis: AH
+Analysis: AH + WRS: yuva + WRS: yuvika
 
 0 @BDUTT Mam kaafi frustration me lag rahi hain #TripleTalaq judgement ke baad ! Yahi mauka hain inko koi link bhejo re Blue whale game ki!
-Analysis: WS: frustration + WS: judgement
+Analysis: WS: frustration + WS: judgement + AH
 
 @i_am_nat_war abla naari ki help kar
-Analysis: WS: help
+Analysis: WS: help + AH
 
 Election commission ko bhi @BJP4India par najar rakhni chahiye. Gujarat Haath se jaata Dekh ab #GST yaad aa gaya inhe
 Analysis: WS: Election commission
@@ -244,13 +244,13 @@ Analysis: AH + WS: run + WS: ball + WS: out
 Analysis: AH
 
 @iamGunjanGrunge MaPoSe murder maaf kar sakta hai.. Drunk driving nahi
-Analysis: WS: murder + Sentence: drunk driving
+Analysis: WS: murder + GERUND
 
 @Tweepshikha toh mujhe laga tumhari bhi shakal hogi usmein kahin :-/
 Analysis: AH
 
 my story ws totally opposite ... maa mana karti thi n papa paise dete thhe ... alwez ... :)
-Analysis: WS: and + WS: always + CS?
+Analysis: WS: and + WS: always + CS
 
 @rynkee Kaho naa pyaar hai 
 Analysis: AH
@@ -265,7 +265,7 @@ Analysis: WS: wallet
 Analysis: WS: disappointing
 
 RT @khanakram421 : She : Bhaiyya mujhe Chandi colour ka dress chahiyeShopkeeper : Accha to tumhe Silver kameez chahiye ?
-Analysis: woah wtf
+Analysis: IMP woah wtf
 
 jo jaisa dusro k sath krta h uske sath aisa hi hota h ..he cheated dada ...
 Analysis: CS
@@ -308,22 +308,22 @@ Analysis: WS: Porn
 Analysis: AH
 
 #TripleTalaq sirji aap ne to sab chura liya. triple "talaq ram "mandir "vikas appeasement opposition ko kucchh chhodo
-Analysis: 
+Analysis: CS
 
 sir, can't wait fr #Bajrangi_bhaijaan <3
-Analysis: 
+Analysis: AE
 
 @tweeting_pal ab bata bhi de kiska.. raat bhar sochte rahenge @Insane_chorri @HathwalaThakur @MeetUunngLee
-Analysis: 
+Analysis: AH
 
 Toh chaabi kisne lagayi? Aur khoyi kisne?
-Analysis: 
+Analysis: AH
 
 man prasann ho gaya dekh kar .
-Analysis: 
+Analysis: AH
 
 Ghu mein pair rakhoge toh dhona padega, pyaar mein padoge toh rona padega. #Irshaad
-Analysis: 
+Analysis: AH
 
 G1 to G2: Tera mera pyar amar.
  Amar: Mujhe tum dono pasand ho.
@@ -339,7 +339,7 @@ Sabke saamne naak toh katwa hi deti hai biwiyahttps://twitter.com/anjanabhartia/
 Analysis: AH
 
 superr se uperrrrr (y) missng home
-Analysis: CS? wtf?
+Analysis: CS? wtf? AH
 
 matlab 28 or 29 me se kis din aana hai..
 Analysis: AH
@@ -351,7 +351,7 @@ shubham teotia ..iske number final me judenge ..lol :)
 Analysis: AH
 
 Chalo ab koi sting operation karke kisi sarkar ko nanga nahi kar sakti ... maare jaoge #RightToPrivacy
-Analysis: 
+Analysis: WRS: sarkar + AH
 
 @justicearnab mujhe to ab se gaaliya padne lagi hai :/
 Analysis: AH
@@ -360,7 +360,7 @@ ATM me cash aane ka ?https://twitter.com/CopyWalaTweet/status/803470605039255552
 Analysis: WS: cash
 
 @Beingakashss thanks bhai Tere Tweet Ka Wait Tha Mujhe
-Analysis: WS: thanks
+Analysis: WS: thanks + GREET
 
 Yahan se ek suwar phenk kar maarenge, saara radicalism uttar jayega.https://twitter.com/defencepk/status/867363923770523649Â â€¦
 Analysis: WS: radicalism
@@ -401,13 +401,13 @@ Analysis: AH
 Analysis: AH
 
 "Bhaiya ek Malai chicken kofta lana" #DrunkDialogue
-Analysis: 
+Analysis: AH
 
 @Jamuntini Oh ho. Aaj Ghaib.
-Analysis: 
+Analysis: AH
 
 only kejriwal ... baki sab bakwass
-Analysis: 
+Analysis: AH + GREET
 
 Chota bachcha samajh ke humko na aankh dikhaana re.. - Arya Stark @AndColorPockeT
 Analysis: 
