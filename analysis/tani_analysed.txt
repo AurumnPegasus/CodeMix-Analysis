@@ -59,10 +59,10 @@ sona nahi hai tumko?
 Analysis: CS QnA Q: hindi A: english
 
 @kamaalrkhan sir ye tweet unko bhej do. Itni Hi-Fi English padh ke wo waise hi suicide kar lega.
-Analysis: "Hi-Fi English" NP english embedded in hindi + "suicide" WS: RESP
+Analysis: "Hi-Fi English" NP english embedded in hindi + "suicide" WS: RESP AN JJE
 
 Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?
-Analysis: "Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?"
+Analysis: "Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?" AN JJE
 
 "Bhaiya Goal ki taraf le lo"
  
@@ -70,10 +70,10 @@ Analysis: "Kya lifetime like hi karogi ? Kabhi RT nahi karogi ?"
 Analysis: AH HKIN
 
 .@ashutosh83B to phir rishta pakka samjhen?
-Analysis: AH
+Analysis: AH NA JJH
 
 RT @ruchikokcha : @Atheist_Krishna Isiliye ( sadly ) I am perhaps the only woman jisey Kohli ko khelta dekh bhai wali feeling aati hai .
-Analysis: IMP "I am perhaps the only woman jisey ... AH" note the jisey RC HKIN
+Analysis: IMP "I am perhaps the only woman jisey ... AH" note the jisey RC HKIN 
 
 tu such mein pagal ho gai hai......jo ho gya so ho gya babu....ek achhi and happy life start kar....
 Analysis: IMP "ek achhi and happy life start kar ...." note the and, which is combining acchi and happy as adjectives for life. This is again embedded in hindi, saying kar at the end, where rest of preceding sequence is AH HKIN

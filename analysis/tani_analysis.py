@@ -43,7 +43,19 @@ def plotter(details):
     plt.bar(keys, values)
     plt.show()
 
+shivu_data = []
+def shivu_spitter():
+    for i, sent in enumerate(data):
+        if "Analysis: " not in sent or len(sent) == len("Analysis: \n"):
+            continue
+        if 'CS' in sent or 'WS' in sent:
+            shivu_data.append(data[i-1] + "\n" + sent)
+
 print("count:", count)
 pprint(details)
 
 plotter(details)
+
+shivu_spitter()
+with open('shivu_extra_majdoori.txt', 'w') as f:
+    f.writelines(shivu_data)
