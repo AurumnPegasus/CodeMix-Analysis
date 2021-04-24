@@ -5,19 +5,19 @@ with open('tani_majdoori.txt') as f:
 
 count = 0
 details = {
-    'AH': 0,
-    'AE': 0,
-    'WS': 0,
-    'WRS': 0,
-    'CS': 0,
-    'NP': 0,
-    'QUOTE': 0,
-    'IMP': 0,
-    'RC': 0,
-    'GREET': 0,
-    'HKIN': 0,
-    'EKIN': 0,
-    'RESP': 0
+    'AH': [],
+    'AE': [],
+    'WS': [],
+    'WRS': [],
+    'CS': [],
+    'NP': [],
+    'QUOTE': [],
+    'IMP': [],
+    'RC': [],
+    'GREET': [],
+    'HKIN': [],
+    'EKIN': [],
+    'RESP': []
 }
 
 # GREET: english start as greeting, rest AH
@@ -28,13 +28,12 @@ details = {
 # EKIN: (bro/mom/dad)/darling
 # HKIN: yaar/bhai/bhaiya/mummy/papa/babu/bhaijaan/bhaiyya/dada
 
-for sent in data:
+for i, sent in enumerate(data):
     if "Analysis: " not in sent or len(sent) == len("Analysis: \n"):
         continue
     count += 1
     for k in details.keys():
-        details[k] += sent.count(k)
+        if k in sent: details[k].append((data[i-1], sent))
 
 print("count:", count)
 pprint(details)
-print("sum:", sum(details.values()))
